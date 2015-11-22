@@ -1,0 +1,514 @@
+Connecting to the chassis
+Creating chassis object
+Reserving ports
+Looking for max CC
+Time 5
+tcpAttempted: 1004
+tcpClientEstablished: 1001
+Time 6
+tcpAttempted: 3001
+tcpClientEstablished: 2997
+Time 8
+tcpAttempted: 4001
+tcpClientEstablished: 3997
+Time 9
+tcpAttempted: 6001
+tcpClientEstablished: 5987
+Time 10
+tcpAttempted: 6001
+tcpClientEstablished: 5987
+Time 11
+tcpAttempted: 7001
+tcpClientEstablished: 6986
+Time 12
+tcpAttempted: 7001
+tcpClientEstablished: 6986
+Time 13
+tcpAttempted: 8001
+tcpClientEstablished: 7986
+Time 14
+tcpAttempted: 10000
+tcpClientEstablished: 9983
+Time 15
+tcpAttempted: 12001
+tcpClientEstablished: 11981
+Time 16
+tcpAttempted: 12001
+tcpClientEstablished: 11981
+Time 17
+tcpAttempted: 13000
+tcpClientEstablished: 12981
+Time 19
+tcpAttempted: 14001
+tcpClientEstablished: 13980
+Time 20
+tcpAttempted: 16001
+tcpClientEstablished: 15979
+Time 21
+tcpAttempted: 16001
+tcpClientEstablished: 15979
+Time 22
+tcpAttempted: 18001
+tcpClientEstablished: 16054
+Found top value - canceling the test
+0 1001 2997 3997 5987 5987 6986 6986 7986 9983 11981 11981 12981 13980 15979 15979 16054
+Max CC value is 16054
+Looking for max CC that works continuously 
+Running with CC: 16054
+Time 6
+tcpAttempted: 2003
+tcpClientEstablished: 2001
+Time 7
+tcpAttempted: 3002
+tcpClientEstablished: 2999
+Time 8
+tcpAttempted: 5002
+tcpClientEstablished: 4994
+Time 9
+tcpAttempted: 5002
+tcpClientEstablished: 4994
+Time 10
+tcpAttempted: 6001
+tcpClientEstablished: 5992
+Time 11
+tcpAttempted: 7002
+tcpClientEstablished: 6993
+Time 12
+tcpAttempted: 7002
+tcpClientEstablished: 6993
+Time 14
+tcpAttempted: 10002
+tcpClientEstablished: 9989
+Time 15
+tcpAttempted: 12002
+tcpClientEstablished: 11985
+Time 16
+tcpAttempted: 12002
+tcpClientEstablished: 11985
+Time 17
+tcpAttempted: 13002
+tcpClientEstablished: 12982
+Time 18
+tcpAttempted: 14002
+tcpClientEstablished: 13981
+Time 19
+tcpAttempted: 16002
+tcpClientEstablished: 15975
+Time 20
+tcpAttempted: 16002
+tcpClientEstablished: 15975
+Time 21
+tcpAttempted: 16002
+tcpClientEstablished: 15975
+Time 23
+tcpAttempted: 16075
+tcpClientEstablished: 16047
+Time 24
+tcpAttempted: 16080
+tcpClientEstablished: 16052
+Time 25
+tcpAttempted: 16080
+tcpClientEstablished: 16052
+Time 26
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 27
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 28
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 29
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 30
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 32
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 33
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 34
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 35
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 36
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 37
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 38
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 40
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 41
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 42
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 43
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 44
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 45
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 46
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 47
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 48
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 50
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 51
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 52
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 53
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 54
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 56
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 57
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 58
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 59
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 60
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 61
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 62
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 63
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 65
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 66
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 67
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 68
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 69
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 70
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 72
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 73
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 74
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 75
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 76
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 77
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 78
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 80
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 81
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 82
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 83
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 84
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 85
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 86
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 88
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 89
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 90
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 91
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 92
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 93
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 94
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 96
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 97
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 98
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 99
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 100
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 101
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 102
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 103
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 105
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 106
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 107
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 108
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 109
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 110
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 112
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 112 tcpClientClosed: 2
+Time 113
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 113 tcpClientClosed: 1999
+Time 114
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 114 tcpClientClosed: 1999
+Time 115
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 115 tcpClientClosed: 3996
+Time 116
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 116 tcpClientClosed: 5994
+Time 117
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 117 tcpClientClosed: 5994
+Time 118
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 118 tcpClientClosed: 7991
+Time 120
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 120 tcpClientClosed: 8990
+Time 121
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 121 tcpClientClosed: 10989
+Time 122
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 122 tcpClientClosed: 12986
+Time 123
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 123 tcpClientClosed: 13987
+Time 124
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 124 tcpClientClosed: 13987
+Time 125
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 125 tcpClientClosed: 14985
+Time 126
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 126 tcpClientClosed: 14985
+Time 127
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 127 tcpClientClosed: 15980
+Time 128
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 128 tcpClientClosed: 15980
+Time 129
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 129 tcpClientClosed: 16033
+Time 130
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 130 tcpClientClosed: 16033
+Time 131
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 131 tcpClientClosed: 16033
+Time 133
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 133 tcpClientClosed: 16033
+Time 134
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 134 tcpClientClosed: 16033
+Time 135
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 135 tcpClientClosed: 16033
+Time 136
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 136 tcpClientClosed: 16033
+Time 137
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 137 tcpClientClosed: 16033
+Time 138
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 138 tcpClientClosed: 16033
+Time 139
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 139 tcpClientClosed: 16033
+Time 140
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 140 tcpClientClosed: 16033
+Time 141
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 141 tcpClientClosed: 16033
+Time 142
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 142 tcpClientClosed: 16033
+Time 144
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 144 tcpClientClosed: 16033
+Time 145
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 145 tcpClientClosed: 16033
+Time 146
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 146 tcpClientClosed: 16033
+Time 147
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 147 tcpClientClosed: 16033
+Time 148
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 148 tcpClientClosed: 16033
+Time 149
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 149 tcpClientClosed: 16033
+Time 150
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 150 tcpClientClosed: 16033
+Time 152
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 152 tcpClientClosed: 16033
+Time 153
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 153 tcpClientClosed: 16033
+Time 154
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 154 tcpClientClosed: 16033
+Time 155
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 155 tcpClientClosed: 16033
+Time 156
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 156 tcpClientClosed: 16033
+Time 157
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 157 tcpClientClosed: 16033
+Time 158
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 158 tcpClientClosed: 16033
+Time 159
+tcpAttempted: 16081
+tcpClientEstablished: 16054
+Time 159 tcpClientClosed: 16033
+Test Passed
+MAX_CC:16054
